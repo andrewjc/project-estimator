@@ -22,3 +22,5 @@ This worksheet performs the following:
 * Configurable sprint length (default 10 working days)
 
 * Configurable points to days mapping
+
+![Agile Estimation Worksheet](https://github.com/andrewjc/project-estimator/blob/master/docs/img.png?raw=true "Agile Estimation Worksheet")
